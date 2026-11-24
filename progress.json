@@ -1,0 +1,57 @@
+{
+  "generated_at": "2026-11-26T07:00:31.404Z",
+  "items": {
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-11-24T18:57:52.002Z",
+      "last_pushed_at": "2026-11-24T18:57:52.002Z",
+      "language": "python",
+      "lines": 19
+    },
+    "problem:282": {
+      "kind": "problem",
+      "id": "282",
+      "title": "Calculate SVM Margin Width",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/282",
+      "path": "problems/0282-calculate-svm-margin-width",
+      "first_solved_at": "2026-11-24T19:57:50.288Z",
+      "last_pushed_at": "2026-11-24T19:57:50.288Z",
+      "language": "python",
+      "lines": 4
+    },
+    "problem:283": {
+      "kind": "problem",
+      "id": "283",
+      "title": "Implement Hinge Loss for SVM",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/283",
+      "path": "problems/0283-implement-hinge-loss-for-svm",
+      "first_solved_at": "2026-11-24T20:05:34.083Z",
+      "last_pushed_at": "2026-11-24T20:05:34.083Z",
+      "language": "python",
+      "lines": 5
+    },
+    "problem:281": {
+      "kind": "problem",
+      "id": "281",
+      "title": "Implement Polynomial Kernel Function",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/281",
+      "path": "problems/0281-implement-polynomial-kernel-function",
+      "first_solved_at": "2026-11-24T20:09:19.296Z",
+      "last_pushed_at": "2026-11-24T20:09:19.296Z",
+      "language": "python",
+      "lines": 14
+    }
+  }
+}
