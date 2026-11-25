@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**4** solved · 4 problems · 0 labs · 0 math
+**8** solved · 8 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -16,6 +16,10 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Hinge Loss for SVM](https://www.deep-ml.com/problems/283) | easy | 2026-11-24 | [solution](problems/0283-implement-hinge-loss-for-svm) |
 | [Implement Polynomial Kernel Function](https://www.deep-ml.com/problems/281) | easy | 2026-11-24 | [solution](problems/0281-implement-polynomial-kernel-function) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-11-24 | [solution](problems/0015-linear-regression-using-gradient-descent) |
+| [Decision Tree Pruning with Cost-Complexity](https://www.deep-ml.com/problems/285) | medium | 2026-11-25 | [solution](problems/0285-decision-tree-pruning-with-cost-complexity) |
+| [Implement Out-of-Bag Score Calculation](https://www.deep-ml.com/problems/345) | medium | 2026-11-25 | [solution](problems/0345-implement-out-of-bag-score-calculation) |
+| [Implement Soft Voting Classifier](https://www.deep-ml.com/problems/306) | medium | 2026-11-25 | [solution](problems/0306-implement-soft-voting-classifier) |
+| [Gradient Boosting with a Pluggable Loss: Squared, Absolute, Huber and Log Loss](https://www.deep-ml.com/problems/1859) | hard | 2026-11-25 | [solution](problems/1859-gradient-boosting-with-a-pluggable-loss-squared-absolute-huber-and-log-loss) |
 
 ---
 

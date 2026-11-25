@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T07:00:31.404Z",
+  "generated_at": "2026-11-26T07:00:34.442Z",
   "items": {
     "problem:15": {
       "kind": "problem",
@@ -52,6 +52,58 @@
       "last_pushed_at": "2026-11-24T20:09:19.296Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:285": {
+      "kind": "problem",
+      "id": "285",
+      "title": "Decision Tree Pruning with Cost-Complexity",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/285",
+      "path": "problems/0285-decision-tree-pruning-with-cost-complexity",
+      "first_solved_at": "2026-11-25T05:58:17.584Z",
+      "last_pushed_at": "2026-11-25T05:58:17.584Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:1859": {
+      "kind": "problem",
+      "id": "1859",
+      "title": "Gradient Boosting with a Pluggable Loss: Squared, Absolute, Huber and Log Loss",
+      "difficulty": "hard",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/1859",
+      "path": "problems/1859-gradient-boosting-with-a-pluggable-loss-squared-absolute-huber-and-log-loss",
+      "first_solved_at": "2026-11-25T06:53:26.393Z",
+      "last_pushed_at": "2026-11-25T06:53:26.393Z",
+      "language": "python",
+      "lines": 211
+    },
+    "problem:345": {
+      "kind": "problem",
+      "id": "345",
+      "title": "Implement Out-of-Bag Score Calculation",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/345",
+      "path": "problems/0345-implement-out-of-bag-score-calculation",
+      "first_solved_at": "2026-11-25T08:33:14.475Z",
+      "last_pushed_at": "2026-11-25T08:33:14.475Z",
+      "language": "python",
+      "lines": 43
+    },
+    "problem:306": {
+      "kind": "problem",
+      "id": "306",
+      "title": "Implement Soft Voting Classifier",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/306",
+      "path": "problems/0306-implement-soft-voting-classifier",
+      "first_solved_at": "2026-11-25T14:15:02.989Z",
+      "last_pushed_at": "2026-11-25T14:15:02.989Z",
+      "language": "python",
+      "lines": 29
     }
   }
 }
