@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**8** solved · 8 problems · 0 labs · 0 math
+**9** solved · 9 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -20,6 +20,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Implement Out-of-Bag Score Calculation](https://www.deep-ml.com/problems/345) | medium | 2026-11-25 | [solution](problems/0345-implement-out-of-bag-score-calculation) |
 | [Implement Soft Voting Classifier](https://www.deep-ml.com/problems/306) | medium | 2026-11-25 | [solution](problems/0306-implement-soft-voting-classifier) |
 | [Gradient Boosting with a Pluggable Loss: Squared, Absolute, Huber and Log Loss](https://www.deep-ml.com/problems/1859) | hard | 2026-11-25 | [solution](problems/1859-gradient-boosting-with-a-pluggable-loss-squared-absolute-huber-and-log-loss) |
+| [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-26 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
 ---
 
