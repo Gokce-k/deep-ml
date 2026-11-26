@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**9** solved · 9 problems · 0 labs · 0 math
+**10** solved · 10 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -19,6 +19,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Decision Tree Pruning with Cost-Complexity](https://www.deep-ml.com/problems/285) | medium | 2026-11-25 | [solution](problems/0285-decision-tree-pruning-with-cost-complexity) |
 | [Implement Out-of-Bag Score Calculation](https://www.deep-ml.com/problems/345) | medium | 2026-11-25 | [solution](problems/0345-implement-out-of-bag-score-calculation) |
 | [Implement Soft Voting Classifier](https://www.deep-ml.com/problems/306) | medium | 2026-11-25 | [solution](problems/0306-implement-soft-voting-classifier) |
+| [Multinomial Naive Bayes Classifier](https://www.deep-ml.com/problems/817) | medium | 2026-11-26 | [solution](problems/0817-multinomial-naive-bayes-classifier) |
 | [Gradient Boosting with a Pluggable Loss: Squared, Absolute, Huber and Log Loss](https://www.deep-ml.com/problems/1859) | hard | 2026-11-25 | [solution](problems/1859-gradient-boosting-with-a-pluggable-loss-squared-absolute-huber-and-log-loss) |
 | [Train Logistic Regression with Gradient Descent](https://www.deep-ml.com/problems/106) | hard | 2026-11-26 | [solution](problems/0106-train-logistic-regression-with-gradient-descent) |
 
